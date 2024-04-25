@@ -13,7 +13,8 @@ body{
     margin: 0;
     padding: auto;
     border: 0;
-    padding-top: 5%;    
+    padding-top: 5%;
+    flex-wrap: wrap;
 }
 img{
     height: 55px;
@@ -25,6 +26,9 @@ img{
     height: 500px;
     color: #52525A;
     margin-left: 20px;
+    margin-bottom: 0px;
+    min-width: 250px;
+
 }
 h1{
     font-family: "Sora", sans-serif;
@@ -59,6 +63,7 @@ p{
     width: 620px;
     height: 500px;
     display: block;
+    min-width: 250px;
 }
 .google{
     background-color:#ffff;
