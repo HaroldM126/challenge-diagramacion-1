@@ -1,0 +1,137 @@
+body{
+    display: block;
+    width: 100vw;
+    height: 48.5vw;
+    margin: 0;
+    padding: 0%;
+    background-color: #FAFAF9;
+}
+.container{
+    display: flex;
+    background-color: #FAFAF9;
+    height: auto;
+    margin: 0;
+    padding: auto;
+    border: 0;
+    padding-top: 5%;    
+}
+img{
+    height: 55px;
+    width: 60px;
+    margin-bottom: 20px;
+}
+.review{
+    width: 590px;
+    height: 500px;
+    color: #52525A;
+    margin-left: 20px;
+}
+h1{
+    font-family: "Sora", sans-serif;
+    font-size: 36px;
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 35px;
+    color: #18181B;
+  }
+.textbody{
+    color: #52525A;
+    font-family: "Sora", sans-serif;
+    font-size: 20px;
+    margin-bottom: 60px;
+    height:150px;
+    line-height: 40px;
+}
+p{
+    margin-top: 10px;
+    padding: 0px;
+    border: 0px;
+    display: flex;
+    align-items: center;
+    font-family: "Sora", sans-serif;
+    font-size: 14px;
+}
+.check{
+    padding-right: 10px;
+}
+.subcontainer{
+    float: right;
+    width: 620px;
+    height: 500px;
+    display: block;
+}
+.google{
+    background-color:#ffff;
+    width: 300px;
+    height: 150px;
+    margin-left: 230px;
+    margin-bottom: 60px;
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 0px 0px 5px rgb(212, 212, 201);
+}
+.meta{
+    background-color:#ffff;
+    width: 300px;
+    height: 150px;
+    margin-left: 40px;
+    border-radius: 10px;
+    padding:25px;
+    box-shadow: 0px 0px 5px rgb(212, 212, 201);
+}
+.logogoogle{
+    width: 30%;
+    height: 32px;
+    padding-right: 15px;
+    margin-bottom: 10px;
+
+}
+.logometa{
+    width: 30%;
+    height: 30px;
+    padding-right: 15px;
+    margin-bottom: 10px;
+}
+.googlerate{
+    margin-bottom: 2px;
+    font-size: 20px;
+    margin-top: 2px;
+    padding: 0px;
+    border: 0px;
+    display: flex;
+}
+.metarate{
+    margin-bottom: 2px;
+    font-size: 20px;
+    margin-top: 2px;
+    padding: 0px;
+    border: 0px;
+    display: flex;
+}
+.textmeta{
+    font-family: "Sora", sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    color: #52525A;
+}
+.textgoogle{
+    font-family: "Sora", sans-serif;
+    font-size: 16px;  
+    line-height: 30px;
+    color: #52525A;
+}
+.rachel{
+    font-family: "Sora", sans-serif;
+    font-size: 16px;  
+}
+.samantha{
+    font-family: "Sora", sans-serif;
+    font-size: 16px;  
+}
+.gray{
+    margin: 0px;
+    margin-right: 1000x;
+    border: 0px;
+    width:32px;
+    height: 29px;
+}
