@@ -140,3 +140,20 @@ p{
     width:32px;
     height: 29px;
 }
+
+@media screen and (max-width:640px)
+{
+    .google{
+        position: relative;
+        left: 40%;
+        padding: 10px;
+        margin-left: 0px;
+    }
+    .container{
+        flex-direction: column;}
+        .review,
+        .subcontainer{
+            width: 100%;
+
+}
+}
